@@ -35,13 +35,14 @@ body {
     max-width: 320px;
     width: 100%;
     height: auto;
+    box-shadow: 6px 6px black;
 }
 
 .card:hover {
     cursor: pointer;
-    transform: translateY(-5px);
-    box-shadow: 6px 6px black;
+    transform: translateY(5px);
     transition-duration: 0.5s;
+    box-shadow: none;
 }
 
 .img-container{
