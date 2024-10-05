@@ -22,15 +22,15 @@ Users should be able to:
 
 - See hover and focus states for all interactive elements on the page
 
-### Screenshot
+### Screenshots
 
-- when not hovering ![](./screenshot_1.png)
-- while hovering ![](./Screenshot_2.png)
+- when not hovering ![Screenshot 1](./screenshot_1.png)
+- while hovering ![Screenshot 2](./Screenshot_2.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Soluion](https://github.com/Vinayak-Khavare/Ch.2-Blog-Preview-Card)
+- Live Site URL: [Live site URL](https://vinayak-khavare.github.io/Ch.2-Blog-Preview-Card/)
 
 ## My process
 
